@@ -1,0 +1,9 @@
+tree("Root")
+	fallback
+		sequence
+			EnemyClose
+			GoEnemy
+			Attack
+		sequence
+			Rest
+			Patrol
